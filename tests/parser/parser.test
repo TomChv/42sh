@@ -1,0 +1,41 @@
+cat > a
+cat > a
+
+ls ;ls |cat| cat &&ls |cat -e ;ls;cat |cat |ls|ls
+ls ; ls | cat | cat && ls | cat -e ; ls ; cat | cat | ls | ls
+
+cat>a>e>oa>o>e>a>>aze
+cat > a > e > oa > o > e > a >> aze
+
+ls|grep|ls| grep> ls;      ls;grep         |a &&           o; aaa ; ooo;   
+ls | grep | ls | grep > ls ; ls ; grep | a && o ; aaa ; ooo ;
+
+                ls|cat|cat|cat>e >> a
+ls | cat | cat | cat > e >> a
+
+ls>>ls>>>>>ls
+ls >> ls >> > > > ls
+
+echo >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> echo
+echo >> > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > > echo
+
+echo &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&     echo   
+echo && & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & & echo
+
+echo &&&&&&&&&&&&&&>>>>>>>>>>&&&&&&||||||||&&&&&&&&&&&&&&&&&&&&     echo   
+echo && & & & & & & & & & & & & >> > > > > > > > > && & & & & || | | | | | | && & & & & & & & & & & & & & & & & & & echo
+
+echo "&&&&&&&&&&&&&&>>>>>>>>>>&&&&&&||||||||&&&&&&&&&&&&&&&&&&&&"
+echo "&&&&&&&&&&&&&&>>>>>>>>>>&&&&&&||||||||&&&&&&&&&&&&&&&&&&&&"
+
+echo "&&&&&&&&&&&         &&&>>>>>>>>>       >&&&&&&||         ||||||&&&&&&    &&&&&&&&&&&&&&" && echo "a a a a a a a a a";ls|ls&&ls|ls&&ls|ls
+echo "&&&&&&&&&&&         &&&>>>>>>>>>       >&&&&&&||         ||||||&&&&&&    &&&&&&&&&&&&&&" && echo "a a a a a a a a a" ; ls | ls && ls | ls && ls | ls
+
+ls "ouh ih ou ahahah ls>; ls;"
+ls "ouh ih ou ahahah ls>; ls;"
+
+ls "ouh ih ou ` ahahah ls>;` ls;"
+ls "ouh ih ou ahahah ls>; ls``;"
+
+ls                  '"ouh ih ou ` ahahah ls>;` ls;"'
+ls '"ouh ih ou ```ahahah ls>; ls``;"'
